@@ -1,2 +1,2 @@
-Barebones CMake Template with package management support
+Barebones CMake Template with package management support.
 
